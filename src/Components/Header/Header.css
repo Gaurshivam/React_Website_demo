@@ -1,0 +1,48 @@
+.nav{
+    /* background-color: rgb(190, 55, 55); */
+    height: 7vh;
+    display:  flex;
+    width: 100%;
+}
+.logopart{
+    width: 30%;
+}
+
+.Image{
+    width: 150px;
+    height: 70px;
+    margin-left: 50px;
+}
+
+.servicespart{
+ width: 40%;
+ margin-top: 25px;
+}
+
+.servicespart a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.login{
+  width:30%;
+  margin-top: 20px;
+  text-align: center;
+}
+.login a{
+    text-decoration: none;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.signUp{
+    padding: 10px;
+    width: 100px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: green;
+    color: antiquewhite;
+    border:none;
+    cursor: pointer;
+}

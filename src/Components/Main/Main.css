@@ -1,0 +1,28 @@
+.Main{
+    background-color: rgb(5, 5, 86);
+    height: 50vh;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.Main h1{
+    padding-top: 80px;
+    color: white;
+}
+
+.Main p{
+    color: white;
+    font-weight:bold;
+}
+
+
+.button{
+    border: none;
+    padding: 15px;
+    background-color: rgb(13, 79, 13);
+    color: white;
+    border-radius: 5px;
+    width: 180px;
+    font-weight: bolder;
+}
